@@ -42,7 +42,6 @@ public class PrimeNumbers {
 		}
 		return i;
 	} // end of function
-	// Poom is awesome!
 	// this function returns true if N is a prime number and false if N is not a
 	// prime number
 	public static boolean isPrime(long N) {
